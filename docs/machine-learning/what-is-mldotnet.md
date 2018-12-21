@@ -1,5 +1,5 @@
 ---
-title: What is ML.NET and how do I understand Machine Learning basics? 
+title: What is ML.NET? 
 description: Learn about ML.NET, a free, open-source, and cross-platform machine learning framework that enables you to build custom AI solutions and integrate them into your .NET applications.
 author: cjgronlund
 ms.custom: seodec18
@@ -8,7 +8,7 @@ ms.date: 11/06/2018
 ---
 # What is ML.NET and how do I understand Machine Learning basics?
 
-ML.NET is a free, open-source, and cross-platform machine learning framework that enables you to build custom machine learning solutions and integrate them into your .NET applications. With the ML.NET APIs you can incorporate AI into your apps using the .NET skills you already have and without leaving .NET.
+ML.NET is a free, open-source, and cross-platform machine learning framework that enables you to build custom machine learning models and integrate them into your .NET applications. With ML.NET you can use your existing .NET skills to build your models for popular machine learning scenarios like sentiment analysis, forecasting, recommendation, image classification and more. 
 
 ## What is machine learning?
 
