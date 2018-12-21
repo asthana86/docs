@@ -1,5 +1,5 @@
 ---
-title: Cluster iris flowers using a clustering learner - ML.NET
+title: Performing cluster analysis on Iris flower dataset
 description: Learn how to use ML.NET in a clustering scenario
 author: pkulikov
 ms.author: johalex
@@ -198,4 +198,4 @@ In this tutorial, you learned how to:
 
 Check out our GitHub repository to continue learning and find more samples.
 > [!div class="nextstepaction"]
-> [dotnet/machinelearning GitHub repository](https://github.com/dotnet/machinelearning/)
+> [dotnet/machinelearning GitHub repository](https://github.com/dotnet/machinelearning-samples/)
